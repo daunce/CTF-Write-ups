@@ -1,4 +1,4 @@
-# Pre-Kebab Competition
+# Pre-Kebab Challenge
 
 Points: 50  
 Easy
@@ -52,7 +52,7 @@ Over to yandex.com for reverse image search where it returned this image:
 
 ![](36994_20180612221135778089.jpg)
 
-The shows "The Epping Club".
+That shows "The Epping Club".
 
 Using Google maps I confirm that's the location.
 
