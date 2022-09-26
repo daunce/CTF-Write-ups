@@ -12,6 +12,7 @@ Flag format: Email address, case insensitive
 
 Author: Cake#4096
 
+-------------
 
 Looking at login attempts:
 

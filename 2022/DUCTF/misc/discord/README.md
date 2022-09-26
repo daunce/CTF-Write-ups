@@ -8,6 +8,8 @@ Have you joined the DUCTF Discord yet? There are some spicy memes, a certified m
 
 Author: NoSurf#3704
 
+-------------
+
 DUCTF discord has a #meme channel. Browsing from before the start time of the CTF..
 
 ![](discord-01.png)

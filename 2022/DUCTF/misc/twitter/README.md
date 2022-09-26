@@ -10,6 +10,8 @@ O_O I spy with my little eye, the largest CTF in the southern hemisphere's twitt
 
 Author: Crem#2193
 
+-------------
+
 ![](twitter-01.png)
 
 ```DUCTF{the-mascot-on-the-ductf-hoodie-is-named-ducky}```

@@ -22,6 +22,8 @@ Feedback is very highly encouraged.
 
 Author: Cake#4096 & Conletz#5420
 
+-------------
+
 Registering for a free 1 week  Splunk Cloud instance was fine, but I always got: 
 ```
 Too many HTTP threads (1267) already running, try again later

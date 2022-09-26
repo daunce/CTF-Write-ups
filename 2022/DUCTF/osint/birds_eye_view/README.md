@@ -12,6 +12,8 @@ Author: Yo_Yo_Bro
 
 ![](view.jpg)
 
+-------------
+
 ```
 $ exiftool view.jpg    
 ExifTool Version Number         : 12.44

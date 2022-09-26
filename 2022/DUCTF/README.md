@@ -5,7 +5,7 @@ DownUnderCTF - https://play.duc.tf/
 | Challenges |                      |
 |-------|---------------------------|
 | pwn   |                           |
-|       | [babyp(y)wn]()                |
+|       | [babyp(y)wn](pwn/babyp(y)wn)                |
 | misc  |                           |
 |       | [twitter](misc/twitter)                   |
 |       | [discord](misc/discord)                   |

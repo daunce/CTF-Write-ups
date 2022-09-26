@@ -25,6 +25,8 @@ if b'DUCTF' in bytes(buf2):
     print(open('./flag.txt', 'r').read())
 ```
 
+-------------
+
 Running the script it produces no output. I can type and press enter, and nothing happens.
 ```shell
 $ python3 babypywn.py

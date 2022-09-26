@@ -13,7 +13,7 @@ Note: Solving this challenge unlocks another OSINT challenge.
 
 Author: NoSurf#3704
 
-
+-------------
 
 
 https://www.service.nsw.gov.au/transaction/check-vehicle-registration
