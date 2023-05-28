@@ -70,7 +70,7 @@ Image Size                      : 560x450
 Megapixels                      : 0.252
 ```
 
-Looks normal. What about **Title                           : panda_d02b3ab3**.
+Looks normal. What about `Title                           : panda_d02b3ab3`.
 
 Try password panda_d02b3ab3.
 

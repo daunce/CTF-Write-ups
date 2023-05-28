@@ -8,7 +8,7 @@ Compete in TJCTF 2023, a cybersecurity competition hosted by TJCSC! Solve challe
 |       | [hi](web/hi)                |
 |       | [swill-squill](web/swill-squill) |
 | crypto  |                           |
-|       | [babyrsa](crypto/babyrsa)                   |
+|       | [babyrsa](crypto/baby-rsa)                   |
 |       | [ezdlp](crypto/ezdlp)                   |
 | forensics  |                           |
 |       | [beep-boop-robot](forensics/beep-boop-robot) |
